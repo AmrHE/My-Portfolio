@@ -13,7 +13,7 @@ export default {
 		},
 		{
 			name: 'name',
-			title: 'name',
+			title: 'Name',
 			type: 'string',
 		},
 	],
